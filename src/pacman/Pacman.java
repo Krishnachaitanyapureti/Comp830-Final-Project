@@ -6,6 +6,7 @@ public class Pacman extends JFrame{
 
 	public Pacman() {
 		add(new Model());
+		//add(new Model1());
 	}
 	
 	
